@@ -1,0 +1,61 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="8-eod:g~heD|bx;S!ftV" x="225" y="20"><statement name="HANDLER"><block type="device_show_leds" id=".ecrc%5Qm,J(*U@i[BsI"><field name="LEDS">`
+        . # # . . 
+        # # # . . 
+        . # # # # 
+        . # # # . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="2tmhSB/FSKSGnPsfeL|g"><field name="LEDS">`
+        # # . . . 
+        # # . . . 
+        # # # # . 
+        # # # . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="YG@epmC%5XD($@]YkXKu"><field name="LEDS">`
+        # . . . . 
+        # . . . . 
+        # # # . . 
+        # # . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id=";z:!!wXWgX+!Eadq_ZMv"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        # # . . . 
+        # . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="AVTNs7{M/GoTQrN0ZtI:"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        # . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="}i-pW_0Z-*P}/Gn2wA@x"><field name="LEDS">`
+        . . . . . 
+        . . . . # 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="}-yg7F}bsp9t7O_j?q=8"><field name="LEDS">`
+        . . . . # 
+        . . . # # 
+        . . . . # 
+        . . . . # 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="ve7*(qK9uFe1!3u4)n+6"><field name="LEDS">`
+        . . . # # 
+        . . # # # 
+        . . . # # 
+        . . . # # 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="IMFwu{CvPkQtjnpgGkeA"><field name="LEDS">`
+        . . # # . 
+        . # # # . 
+        . . # # # 
+        . . # # # 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="1|mQiyZn8,hotEe}M}+|"><field name="LEDS">`
+        . # # . . 
+        # # # . . 
+        . # # # # 
+        . # # # . 
+        . . . . .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="basic_show_icon" id="[NI~Yd!5@fNmiPK8qDYy" disabled="true" x="-11" y="355"><field name="i">IconNames.Heart</field></block></xml>
